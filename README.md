@@ -73,9 +73,11 @@ Just input wine features like `rating`, `type`, `body`, etc., and get an instant
    cd Rain\ Prediction
    pip install -r requirements.txt
    python app.py
+   ```
 
-##🔧 Project Structure
+## 🔧 Project Structure
 
+```
 ├── app.py                  # Flask app
 ├── Scaler.pkl              # Standard Scaler
 ├── regression_model.pkl  # Trained model
@@ -83,7 +85,7 @@ Just input wine features like `rating`, `type`, `body`, etc., and get an instant
 │   └── form.html           # HTML form for user input               
 ├── requirements.txt
 └── README.md
-
+```
 
 ## 💡 Future Improvements
 -  Add flavor-based NLP insights
