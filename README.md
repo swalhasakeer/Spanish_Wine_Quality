@@ -78,6 +78,7 @@ Just input wine features like `rating`, `type`, `body`, etc., and get an instant
 ## 🔧 Project Structure
 
 ```
+├── Spanish_Wine_Quality_EDA.ipynb
 ├── app.py                  # Flask app
 ├── Scaler.pkl              # Standard Scaler
 ├── regression_model.pkl  # Trained model
